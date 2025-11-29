@@ -1,0 +1,14 @@
+# DB dumps (if sensitive)
+*.sql
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Results/screenshots (if binary not needed in repo)
+# keep screenshots folder but ignore raw editor files
